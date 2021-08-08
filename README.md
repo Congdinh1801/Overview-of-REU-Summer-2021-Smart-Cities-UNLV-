@@ -16,7 +16,6 @@ a. Original paper and github
 b. My customized turorial to train EfficientPS on Cityscapes dataset: https://github.com/Congdinh1801/EfficientPS_Cityscapes
 ## IV.	Panoptic segmentation:
 1. EfficientPS: 
-
 a. Original paper and github
 
 b. My customized turorial to train EfficientPS on Cityscapes dataset: https://github.com/Congdinh1801/EfficientPS_Cityscapes
