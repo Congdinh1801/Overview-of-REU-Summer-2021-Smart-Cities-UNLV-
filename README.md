@@ -16,9 +16,10 @@ a. Original paper and github:
 b. My customized tutorial to train EfficientPS on Cityscapes dataset: https://github.com/Congdinh1801/EfficientPS_Cityscapes
 ## IV.	Panoptic segmentation:
 1. EfficientPS: 
-a. Original paper and GitHub:
 
-b. My customized tutorial to train EfficientPS on Cityscapes dataset: https://github.com/Congdinh1801/EfficientPS_Cityscapes
+* Original paper and GitHub:
+
+* My customized tutorial to train EfficientPS on Cityscapes dataset: https://github.com/Congdinh1801/EfficientPS_Cityscapes
 
 2. Panoptic DeepLab
 
@@ -37,9 +38,9 @@ b. My customized turorial to train EfficientPS on Cityscapes dataset: https://gi
 
 
 ## VI. Future work
-   Apply YOLOv5 in Autoware.Auto to test how accurate the model can detect pedestrians in real-time driving application. Autoware.Auto is a stack open-source software for autonomous driving technology
+* Apply YOLOv5 in Autoware.Auto to test how accurate the model can detect pedestrians in real-time driving application. Autoware.Auto is a stack open-source software for autonomous driving technology
 
-  Develop my own algorithm based on top of YOLOv5 which will be even faster and more accurate for pedestrian detection as well as other traffic detection
+* Develop my own algorithm based on top of YOLOv5 which will be even faster and more accurate for pedestrian detection as well as other traffic detection
 ## VII. Additional notes:
 
 1.	Link to my poster:  https://github.com/Congdinh1801/Poster_presentation_unlv_REUsummer2021
