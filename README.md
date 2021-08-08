@@ -9,13 +9,16 @@
   Panoptic segmentation is a unified task of instance segmentation and semantic segmentation such that all pixels are assigned a class label and all object instances are uniquely segmented.
 ## II.	Object detection with YOLOv5:
 1. Train YOLOv5 on FLIR dataset: https://github.com/Congdinh1801/yolov5forFLIRdataset
-2. Train YOLOv5 on nuImages dataset: 
+2. Link to the original YOLOv5 github: https://github.com/ultralytics/yolov5
+3. More information about YOLOv5 can be found in this well explaind article: https://blog.roboflow.com/yolov5-improvements-and-evaluation/
+4. YOLOv5 tutorial provided by the author on Colab: https://blog.roboflow.com/how-to-train-yolov5-on-a-custom-dataset/
+5. A useful Youtube tutorial on "How to Train YOLO v5 on a Custom Dataset" https://www.youtube.com/watch?v=MdF6x6ZmLAY and the corresponding Colab notebook https://colab.research.google.com/drive/1gDZ2xcTOgR39tGGs-EZ6i3RTs16wmzZQ
 ## III.	Object detection with YOLOR: 
-a. Original paper and github:
+a. Original paper https://arxiv.org/pdf/2105.04206 and author's github https://github.com/WongKinYiu/yolor
 ## IV.	Panoptic segmentation:
 1. EfficientPS: 
 
-* Original paper and GitHub:
+* Original paper https://arxiv.org/pdf/2004.02307 and author's GitHub https://github.com/DeepSceneSeg/EfficientPS
 
 * My customized tutorial to train EfficientPS on Cityscapes dataset: https://github.com/Congdinh1801/EfficientPS_Cityscapes
 
@@ -23,9 +26,9 @@ a. Original paper and github:
 
 * Original paper https://arxiv.org/pdf/1911.10194 and author's Github https://github.com/bowenc0221/panoptic-deeplab/blob/master/tools_d2/README.md
 
-3. Real-Time Panoptic Segmentation https://arxiv.org/pdf/1912.01202 from Dense Detections:
+3. Real-Time Panoptic Segmentation from Dense Detections:
 
-* Original paper and author's github https://github.com/TRI-ML/realtime_panoptic
+* Original paper https://arxiv.org/pdf/1912.01202 and author's github https://github.com/TRI-ML/realtime_panoptic
 
 ## V. Results and Conclusion: 
 * YOLOv5 is the best choice for real time pedestrian detection with high accuracy of >47 mAP and fast inference time of >50 fps
