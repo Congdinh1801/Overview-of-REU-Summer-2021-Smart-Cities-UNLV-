@@ -8,12 +8,10 @@
 
   Panoptic segmentation is a unified task of instance segmentation and semantic segmentation such that all pixels are assigned a class label and all object instances are uniquely segmented.
 ## II.	Object detection with YOLOv5:
-1. Train on FLIR dataset: https://github.com/Congdinh1801/yolov5forFLIRdataset
-2. Train on nuImages dataset: 
+1. Train YOLOv5 on FLIR dataset: https://github.com/Congdinh1801/yolov5forFLIRdataset
+2. Train YOLOv5 on nuImages dataset: 
 ## III.	Object detection with YOLOR: 
 a. Original paper and github:
-
-b. My customized tutorial to train EfficientPS on Cityscapes dataset: https://github.com/Congdinh1801/EfficientPS_Cityscapes
 ## IV.	Panoptic segmentation:
 1. EfficientPS: 
 
@@ -23,18 +21,15 @@ b. My customized tutorial to train EfficientPS on Cityscapes dataset: https://gi
 
 2. Panoptic DeepLab
 
-a. Original paper and github
+* Original paper https://arxiv.org/pdf/1911.10194 and author's Github https://github.com/bowenc0221/panoptic-deeplab/blob/master/tools_d2/README.md
 
-b. My customized tutorial to train EfficientPS on Cityscapes dataset: 
+3. Real-Time Panoptic Segmentation https://arxiv.org/pdf/1912.01202 from Dense Detections:
 
-3. Real-Time Panoptic Segmentation from Dense Detections:
-
-a. Original paper and github
-
-b. My customized turorial to train EfficientPS on Cityscapes dataset: https://github.com/Congdinh1801/EfficientPS_Cityscapes
+* Original paper and author's github https://github.com/TRI-ML/realtime_panoptic
 
 ## V. Results and Conclusion: 
 * YOLOv5 is the best choice for real time pedestrian detection with high accuracy of >47 mAP and fast inference time of >50 fps
+* Panoptic segmentation with EfficientPS and Panoptic DeepLabare are accurate but too slow for real time application with inference time less than 1 fps
 
 
 ## VI. Future work
@@ -43,6 +38,6 @@ b. My customized turorial to train EfficientPS on Cityscapes dataset: https://gi
 * Develop my own algorithm based on top of YOLOv5 which will be even faster and more accurate for pedestrian detection as well as other traffic detection
 ## VII. Additional notes:
 
-1.	Link to my poster:  https://github.com/Congdinh1801/Poster_presentation_unlv_REUsummer2021
+* Link to my poster:  https://github.com/Congdinh1801/Poster_presentation_unlv_REUsummer2021
 
 
