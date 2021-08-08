@@ -5,11 +5,11 @@ During summer 2021, I was lucky enough to participate in the Research Experience
 Object detection is a task in computer vision such that each object in an image is detected with a bounding box, its associated class, and a confidence score.
 Panoptic segmentation is a unified task of instance segmentation and semantic segmentation such that all pixels are assigned a class label and all object instances are uniquely segmented.
 ## 2.	Object detection with YOLOv5:
-a.	Train on nuImages dataset
-b.	Train on FLIR dataset
+### a.	Train on nuImages dataset
+### b.	Train on FLIR dataset
 ## 3.	Object detection with YOLOR: 
 ## 4.	Panoptic segmentation:
-a.	EfficientPS
+### a.	EfficientPS
 b.	Panoptic DeepLab
 c.	Real-Time Panoptic Segmentation from Dense Detections
 ## 5.	Future work
