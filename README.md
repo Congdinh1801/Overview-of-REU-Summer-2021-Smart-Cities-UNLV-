@@ -8,8 +8,14 @@
 
 &emsp;Panoptic segmentation is a unified task of instance segmentation and semantic segmentation such that all pixels are assigned a class label and all object instances are uniquely segmented.
 ## II.	Object detection with YOLOv5:
-1. My customized tutorial to train YOLOv5 on FLIR dataset: https://github.com/Congdinh1801/yolov5forFLIRdataset
-2. Other useful tutorials I found online:
+1. YOLOv5 demo on Las Vegas Downtown drive
+<p>
+<img width="416" src="8s_yolov5_vegas_hd.gif">
+</p>
+
+2. My customized tutorial to train YOLOv5 on FLIR dataset: https://github.com/Congdinh1801/yolov5forFLIRdataset
+
+3. Other useful tutorials I found online:
 * Link to the original YOLOv5 github: https://github.com/ultralytics/yolov5
 * More information about YOLOv5 can be found in this well explaind article: https://blog.roboflow.com/yolov5-improvements-and-evaluation/
 * YOLOv5 tutorial provided by the author on Colab: https://blog.roboflow.com/how-to-train-yolov5-on-a-custom-dataset/
@@ -26,10 +32,13 @@ b. Inference time is about 25 fps
 * Original paper https://arxiv.org/pdf/2004.02307 and author's GitHub https://github.com/DeepSceneSeg/EfficientPS
 
 * My customized tutorial to train EfficientPS on Cityscapes dataset: https://github.com/Congdinh1801/EfficientPS_Cityscapes
+* Inference example: ![image](https://user-images.githubusercontent.com/47203203/128636683-0917e61e-9438-4b26-b81d-f29e2925ee23.png)
+
 
 2. Panoptic DeepLab
 
 * Original paper https://arxiv.org/pdf/1911.10194 and author's Github https://github.com/bowenc0221/panoptic-deeplab/blob/master/tools_d2/README.md
+* Inference example: ![image](https://user-images.githubusercontent.com/47203203/128636694-4ff645da-9e85-422f-95ab-335401935c5a.png)
 
 3. Real-Time Panoptic Segmentation from Dense Detections:
 
