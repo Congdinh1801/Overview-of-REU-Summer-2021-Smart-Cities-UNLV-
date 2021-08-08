@@ -8,20 +8,27 @@
 
   Panoptic segmentation is a unified task of instance segmentation and semantic segmentation such that all pixels are assigned a class label and all object instances are uniquely segmented.
 ## II.	Object detection with YOLOv5:
-1.	Train on nuImages dataset
-
-2.	Train on FLIR dataset
+1. Train on FLIR dataset: https://github.com/Congdinh1801/yolov5forFLIRdataset
+2. Train on nuImages dataset: 
 ## III.	Object detection with YOLOR: 
+a. Original paper and github
+b. My customized turorial to train EfficientPS on Cityscapes dataset: https://github.com/Congdinh1801/EfficientPS_Cityscapes
 ## IV.	Panoptic segmentation:
-1.	EfficientPS
+1. EfficientPS: 
+a. Original paper and github
+b. My customized turorial to train EfficientPS on Cityscapes dataset: https://github.com/Congdinh1801/EfficientPS_Cityscapes
 
-2.	Panoptic DeepLab
+2. Panoptic DeepLab
+3. a. Original paper and github
+b. My customized turorial to train EfficientPS on Cityscapes dataset: https://github.com/Congdinh1801/EfficientPS_Cityscapes
 
-3.	Real-Time Panoptic Segmentation from Dense Detections:
+3. Real-Time Panoptic Segmentation from Dense Detections:
+4. a. Original paper and github
+b. My customized turorial to train EfficientPS on Cityscapes dataset: https://github.com/Congdinh1801/EfficientPS_Cityscapes
 
 ## V.	Future work
    Apply YOLOv5 in Autoware.Auto to test how accurate the model can detect pedestrians in real-time driving application. Autoware.Auto is a stack open-source software for autonomous driving technology
 
   Develop my own algorithm based on top of YOLOv5 which will be even faster and more accurate for pedestrian detection as well as other traffic detection
 ## VI.	Additional notes:
-	Link to my poster:  https://github.com/Congdinh1801/Poster_presentation_unlv_REUsummer2021
+Link to my poster:  https://github.com/Congdinh1801/Poster_presentation_unlv_REUsummer2021
