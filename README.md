@@ -12,18 +12,25 @@
 2. Train on nuImages dataset: 
 ## III.	Object detection with YOLOR: 
 a. Original paper and github
+
 b. My customized turorial to train EfficientPS on Cityscapes dataset: https://github.com/Congdinh1801/EfficientPS_Cityscapes
 ## IV.	Panoptic segmentation:
 1. EfficientPS: 
+
 a. Original paper and github
+
 b. My customized turorial to train EfficientPS on Cityscapes dataset: https://github.com/Congdinh1801/EfficientPS_Cityscapes
 
 2. Panoptic DeepLab
-3. a. Original paper and github
+
+a. Original paper and github
+
 b. My customized turorial to train EfficientPS on Cityscapes dataset: https://github.com/Congdinh1801/EfficientPS_Cityscapes
 
 3. Real-Time Panoptic Segmentation from Dense Detections:
-4. a. Original paper and github
+
+a. Original paper and github
+
 b. My customized turorial to train EfficientPS on Cityscapes dataset: https://github.com/Congdinh1801/EfficientPS_Cityscapes
 
 ## V.	Future work
