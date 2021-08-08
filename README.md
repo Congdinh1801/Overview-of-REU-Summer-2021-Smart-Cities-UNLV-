@@ -8,7 +8,7 @@
 
   Panoptic segmentation is a unified task of instance segmentation and semantic segmentation such that all pixels are assigned a class label and all object instances are uniquely segmented.
 ## II.	Object detection with YOLOv5:
-1. Train YOLOv5 on FLIR dataset: https://github.com/Congdinh1801/yolov5forFLIRdataset
+1. My customized tutorial to train YOLOv5 on FLIR dataset: https://github.com/Congdinh1801/yolov5forFLIRdataset
 2. Link to the original YOLOv5 github: https://github.com/ultralytics/yolov5
 3. More information about YOLOv5 can be found in this well explaind article: https://blog.roboflow.com/yolov5-improvements-and-evaluation/
 4. YOLOv5 tutorial provided by the author on Colab: https://blog.roboflow.com/how-to-train-yolov5-on-a-custom-dataset/
