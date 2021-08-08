@@ -32,7 +32,8 @@ a. Original paper and github
 
 b. My customized turorial to train EfficientPS on Cityscapes dataset: https://github.com/Congdinh1801/EfficientPS_Cityscapes
 
-## V. Results and Conclusion: YOLOv5 is the best choice for real time pedestrian detection with high accuracy of >47 mAP and fast inference time of >50 fps
+## V. Results and Conclusion: 
+* YOLOv5 is the best choice for real time pedestrian detection with high accuracy of >47 mAP and fast inference time of >50 fps
 
 
 ## VI. Future work
