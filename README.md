@@ -43,6 +43,7 @@ b. Inference time is about 25 fps
 3. Real-Time Panoptic Segmentation from Dense Detections:
 
 * Original paper https://arxiv.org/pdf/1912.01202 and author's github https://github.com/TRI-ML/realtime_panoptic
+* My tested inference of the model using the author original code resulted in not as one panoptic segmenation image but two separate images of an instance segmenatation image and a semantic segmenatation image. Therefore, the model doesn't qualify for panoptic segmentation task.
 
 ## V. Results and Conclusion: 
 * YOLOv5 is the best choice for real time pedestrian detection with high accuracy of >47 mAP and fast inference time of >50 fps
